@@ -19,5 +19,8 @@ public class Gebaeude
     public int anzahlBesucher() {
         return besucher;
     }
+    public int java()
+    {
     
+    }
 }
